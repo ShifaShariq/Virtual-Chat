@@ -1,4 +1,4 @@
-# Virtual-Chat-
+# Virtual-ChatRoom
 Computer Networking Project - Virtual Chat
 
 
